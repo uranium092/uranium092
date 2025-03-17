@@ -54,6 +54,15 @@ Para verificar mi experiencia profesional en MERN, integraciones (Meta-Whatsapp,
     * Repositorio del Frontend: [Frontend](https://github.com/uranium092/VideoGame-Front)
 *   **Video Demostrativo:** [Ver solución](https://www.youtube.com/watch?v=Q2U9l3jo0EE) 🎥
 
+###   4.  Chat de conversación 💬
+
+*   **Descripción:** Plataforma de chat que ofrece mensajería individual en tiempo real. Los usuarios crean nombres de usuario personalizados al iniciar sesión y pueden explorar una lista de usuarios en línea para iniciar conversaciones privadas y directas.
+*   **Tecnologías Utilizadas:** Java, Sockets.
+*   **Enlaces Relevantes:**
+    * Repositorio del Backend: [Backend](https://github.com/uranium092/VideoGame-Back)
+    * Repositorio del Frontend: [Frontend](https://github.com/uranium092/VideoGame-Front)
+*   **Video Demostrativo:** [Ver solución](https://www.youtube.com/watch?v=Q2U9l3jo0EE) 🎥
+
 
 ##   Contacto 📧
 
