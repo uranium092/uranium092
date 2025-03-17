@@ -34,7 +34,7 @@ Para verificar mi experiencia profesional en MERN, integraciones (Meta-Whatsapp,
 
 *   **Descripción:** Plataforma de agendamiento de citas para barberías que facilita la gestión integral del negocio. Los barberos pueden administrar sus perfiles, agendas y personal, incluyendo la creación de otros barberos. Los usuarios pueden registrarse, iniciar sesión y reservar citas en tiempo real, con la disponibilidad reflejada en las agendas de los barberos. El sistema también integra una galería conectada a la cuenta de Instagram del barbero para una mayor personalización.
 *  **Tecnologías Utilizadas:**
-   *  **Backend:** Java, Spring Boot, MySQL
+   *  **Backend:** Java, Spring Boot, Hibernate, MySQL
    *  **SSR (Server-Side Rendering):** JavaScript, Node.js, Express.js, EJS
    *  **Integración:** Meta-Instagram
 *   **Enlaces Relevantes:**
@@ -56,13 +56,35 @@ Para verificar mi experiencia profesional en MERN, integraciones (Meta-Whatsapp,
 
 ###   4.  Chat de conversación 💬
 
-*   **Descripción:** Plataforma de chat que ofrece mensajería individual en tiempo real. Los usuarios crean nombres de usuario personalizados al iniciar sesión y pueden explorar una lista de usuarios en línea para iniciar conversaciones privadas y directas.
-*   **Tecnologías Utilizadas:** Java, Sockets.
+*   **Descripción:** Chat que ofrece mensajería individual en tiempo real. Los usuarios crean nombres de usuario personalizados al iniciar sesión y pueden explorar una lista de usuarios en línea para iniciar conversaciones privadas y directas.
+*   **Tecnologías Utilizadas:** Java, Sockets, Threads, Swing.
 *   **Enlaces Relevantes:**
-    * Repositorio del Backend: [Backend](https://github.com/uranium092/VideoGame-Back)
-    * Repositorio del Frontend: [Frontend](https://github.com/uranium092/VideoGame-Front)
+    * Repositorio: [Código](https://github.com/uranium092/Chat)
 *   **Video Demostrativo:** [Ver solución](https://www.youtube.com/watch?v=Q2U9l3jo0EE) 🎥
 
+###   5.  Gestión de clientes y pedidos - Tienda musical 🎸
+
+*   **Descripción:** Aplicación para la gestión de clientes y pedidos en una tienda de música. Los clientes, que son integrantes de bandas, pueden ser registrados en el sistema. El sistema permite gestionar los pedidos de cada cliente, incluyendo la adición, modificación y eliminación de artículos/instrumentos y sus precios. Los artículos de los pedidos se gestionan a nivel de cliente.
+*   **Tecnologías Utilizadas:** JSP, Java, Spring, Hibernate, MySQL
+*   **Enlaces Relevantes:**
+    * Repositorio: [Código](https://github.com/uranium092/Client-Order_MusicStore)
+*   **Video Demostrativo:** [Ver solución](https://www.youtube.com/watch?v=Q2U9l3jo0EE) 🎥
+
+###   6. Gestor de Archivos Integrado 🗃️
+
+*   **Descripción:** Aplicación de gestión de archivos integrada al sistema operativo. Permite la navegación y manipulación de archivos y directorios, incluyendo listado recursivo, reconocimiento de extensiones, operaciones de visualización, eliminación recursiva, y apertura de archivos/directorios filtrados.
+*   **Tecnologías Utilizadas:** Java, Swing.
+*   **Enlaces Relevantes:**
+    * Repositorio: [Código](https://github.com/uranium092/FileManager)
+*   **Video Demostrativo:** [Ver solución](https://www.youtube.com/watch?v=Q2U9l3jo0EE) 🎥
+
+###   7. MySQL Data View: Interfaz Intuitiva 🐬
+
+*   **Descripción:** Aplicación que proporciona una interfaz intuitiva para la gestión de bases de datos MySQL, eliminando la necesidad de utilizar comandos SQL. La aplicación lee los datos de conexión desde un archivo .txt y permite la visualización de datos en tablas, así como operaciones de eliminación (única y múltiple), actualización (directamente en las celdas de la tabla) e inserción de registros.
+*   **Tecnologías Utilizadas:** Java, JDBC, Swing.
+*   **Enlaces Relevantes:**
+    * Repositorio: [Código](https://github.com/uranium092/GUI_MySQL)
+*   **Video Demostrativo:** [Ver solución](https://www.youtube.com/watch?v=Q2U9l3jo0EE) 🎥
 
 ##   Contacto 📧
 
