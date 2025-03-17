@@ -94,7 +94,7 @@ Para verificar mi experiencia profesional en MERN, integraciones (Meta-Whatsapp,
     * Repositorio: [Código](https://github.com/uranium092/MediaPlayer)
 *   **Video Demostrativo:** [Ver solución](https://www.youtube.com/watch?v=Q2U9l3jo0EE) 🎥
 
-###   9. Calculadora Web 💽
+###   9. Calculadora Web 🧮
 
 *   **Descripción:** Calculadora web que ofrece una interfaz intuitiva para realizar operaciones aritméticas estándar y funciones de acumulación, permitiendo a los usuarios realizar cálculos de forma sencilla y precisa.
 *   **Tecnologías Utilizadas:** HTML, CSS, Vanilla JS, JQuery
