@@ -5,7 +5,7 @@ Desarrollador de Software con experiencia en MERN Stack, Java/Spring Boot y más
 ##   Habilidades 🛠️
 
 *   **🎨 Frontend:** ReactJs, HTML/CSS
-*   **⚙️ Backend:** Java/Spring Boot/JPA, Javascript/NodeJs/Express, Sockets (WebSockets) 
+*   **⚙️ Backend:** Java/Spring Boot/JPA, Javascript/NodeJs/Express, Sockets
 *   **🗄️ Bases de Datos:** MongoDB, MySQL 
 *   **☁️ Cloud:** AWS (S3, EC2, Beanstalk) 
 *   **📈 Herramientas:** Git/GitHub, Web scraping (Puppeteer), Jira, LucidChart 
