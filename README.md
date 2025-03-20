@@ -1,4 +1,4 @@
-#   Jhon Esneider Castañeda Garcia | Desarrollador Full Stack 👨‍💻
+#   Jhon Esneider Castañeda Garcia | Desarrollador de Software 👨‍💻
 
 ## Sobre mí ‍🙋‍♂️
 
