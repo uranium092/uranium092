@@ -1,18 +1,18 @@
 #   Jhon Esneider Castañeda Garcia | Desarrollador Full Stack 👨‍💻
 
-Desarrollador de Software con experiencia en MERN Stack, Java/Spring Boot y más. Top 3 en SENASOFT. Aprendizaje continuo y enfoque en resultados. 🚀
+## Sobre mí ‍🙋‍♂️
+
+Desarrollador de software con experiencia en la creación de aplicaciones Full Stack utilizando MERN Stack y Java/Spring Boot. Mi especialización abarca la integración de sistemas de terceros (Stripe, Meta-Whatsapp, Vonage-SMS) y el manejo de bases de datos SQL (MySQL) y NoSQL (MongoDB). Además, cuento con conocimientos en AWS (S3, EC2, Elastic Beanstalk) y Web Scraping (Puppeteer).
+
+Reconocido con el 3er lugar nacional en SENASOFT 2024, mi enfoque se centra en la mejora continua y la búsqueda de soluciones eficientes.
 
 ##   Habilidades 🛠️
 
-*   **🎨 Frontend:** ReactJs, HTML/CSS
-*   **⚙️ Backend:** Java/Spring Boot/JPA, Javascript/NodeJs/Express, Sockets
-*   **🗄️ Bases de Datos:** MongoDB, MySQL 
-*   **☁️ Cloud:** AWS (S3, EC2, Beanstalk) 
-*   **📈 Herramientas:** Git/GitHub, Web scraping (Puppeteer), Jira, LucidChart 
-
-##   Sobre mí 🙋‍♂️
-
-Tecnólogo en Análisis y Desarrollo de Software. He desarrollado diversas aplicaciones integrando sistemas de terceros (Stripe, Meta-Whatsapp, Vonage-SMS). Busco oportunidades para crecer y aportar valor. 🌱
+*   **🎨 Frontend:** React, HTML/CSS/Javascript
+*   **⚙️ Backend:** Java/Spring Boot, Javascript/NodeJs/Express, Sockets
+*   **🗄️ Bases de Datos:** MySQL, MongoDB
+*   **☁️ Cloud:** AWS (S3, EC2, Elastic Beanstalk) 
+*   **📈 Herramientas:** Git/GitHub, Web scraping (Puppeteer), SCRUM, Jira, LucidChart yy
 
 ##   Nota 📝
 
