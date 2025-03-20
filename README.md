@@ -2,9 +2,9 @@
 
 ## Sobre mí ‍🙋‍♂️
 
-Desarrollador de software con experiencia en la creación de aplicaciones Full Stack utilizando MERN Stack y Java/Spring Boot. Mi especialización abarca la integración de sistemas de terceros (Stripe, Meta-Whatsapp, Vonage-SMS) y el manejo de bases de datos SQL (MySQL) y NoSQL (MongoDB). Además, cuento con conocimientos en AWS (S3, EC2, Elastic Beanstalk) y Web Scraping (Puppeteer).
+Desarrollador de software con experiencia en la creación de aplicaciones Full Stack utilizando MERN y desarrollo backend Java/Spring Boot. Mi especialización abarca la integración de sistemas de terceros (Stripe, Meta-Whatsapp, Vonage-SMS) y el manejo de bases de datos SQL (MySQL) y NoSQL (MongoDB). Además, cuento con conocimientos en AWS (S3, EC2, Elastic Beanstalk) y Web Scraping (Puppeteer).
 
-Reconocido con el 3er lugar nacional en SENASOFT 2024, mi enfoque se centra en la mejora continua y la búsqueda de soluciones eficientes.
+Reconocido con el 3er lugar nacional en SENASOFT 2024. Busco constantemente expandir mis conocimientos para desarrollar proyectos que marquen la diferencia.
 
 ##   Habilidades 🛠️
 
