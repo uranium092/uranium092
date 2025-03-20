@@ -12,7 +12,7 @@ Reconocido con el 3er lugar nacional en SENASOFT 2024, mi enfoque se centra en l
 *   **⚙️ Backend:** Java/Spring Boot, Javascript/NodeJs/Express, Sockets
 *   **🗄️ Bases de Datos:** MySQL, MongoDB
 *   **☁️ Cloud:** AWS (S3, EC2, Elastic Beanstalk) 
-*   **📈 Herramientas:** Git/GitHub, Web scraping (Puppeteer), SCRUM, Jira, LucidChart yy
+*   **📈 Herramientas:** Git/GitHub, Web scraping (Puppeteer), SCRUM, Jira, LucidChart
 
 ##   Nota 📝
 
