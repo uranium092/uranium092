@@ -16,7 +16,7 @@ Reconocido con el 3er lugar nacional en SENASOFT 2024. Busco constantemente expa
 
 ##   Nota 📝
 
-Para verificar mi experiencia profesional en MERN, integraciones y automatizaciones con Puppeteer, consulta esta [carta de recomendación](https://drive.google.com/file/d/1Z-AKWLRK0IkQ1bsVAHx3_wvvOL4aLCaq/view)
+Para verificar mi experiencia profesional en MERN, integraciones y automatizaciones con Puppeteer, consulta esta [carta de recomendación](https://drive.google.com/file/d/1zEjcfejQdjVwTf5RnPH-KYSA0ygpvxur/view?usp=sharing)
 
 ##   Proyectos 📂
 
