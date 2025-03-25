@@ -35,7 +35,7 @@ Para verificar mi experiencia profesional en MERN, integraciones y automatizacio
 *  **Tecnologías Utilizadas:**
    *  **Backend:** Java, Spring Boot, Hibernate, MySQL
    *  **SSR (Server-Side Rendering):** JavaScript, Node.js, Express.js, EJS
-   *  **Integración:** Meta-Instagram
+   *  **Integración:** Meta-Instagram, Gmail-SMTP
 *   **Enlaces Relevantes:**
     * Repositorio del Backend: [Backend](https://github.com/uranium092/BackSenaSoft)
     * Repositorio del Frontend: [Frontend](https://github.com/uranium092/frontSenaSoft)
