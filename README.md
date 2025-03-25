@@ -2,7 +2,7 @@
 
 ## Sobre mí ‍🙋‍♂️
 
-Desarrollador de software con experiencia en la creación de aplicaciones Full Stack utilizando MERN y desarrollo backend Java/Spring Boot. Mi especialización abarca la integración de sistemas de terceros (Stripe, Meta-Whatsapp, Vonage-SMS) y el manejo de bases de datos SQL (MySQL) y NoSQL (MongoDB). Además, cuento con conocimientos en AWS (S3, EC2, Elastic Beanstalk) y Web Scraping (Puppeteer).
+Desarrollador de software con experiencia en la creación de aplicaciones Full Stack utilizando MERN y desarrollo backend Java/Spring Boot, así como la integración de sistemas de terceros (Stripe, Meta-Whatsapp, Vonage-SMS) y el manejo de bases de datos SQL (MySQL) y NoSQL (MongoDB). Además, cuento con conocimientos en AWS (S3, EC2, Elastic Beanstalk) y Web Scraping (Puppeteer).
 
 Reconocido con el 3er lugar nacional en SENASOFT 2024. Busco constantemente expandir mis conocimientos para desarrollar proyectos que marquen la diferencia.
 
@@ -23,12 +23,12 @@ Para verificar mi experiencia profesional en MERN, integraciones y automatizacio
 ###   1.  SENASOFT 2024 - Edición Cali 🏆
 
 *   **Descripción:** Proyecto desarrollado como solución al reto propuesto y patrocinado por IBM, dentro de la categoría 'Desarrollo Libre'. Obtuvimos el tercer lugar a nivel nacional. Detalles del reto y especificaciones en 'Enlaces Relevantes'.
-*   **Tecnologías Utilizadas:** React, MUI, Java/Spring Boot, MongoDB, Leaflet.
+*   **Tecnologías Utilizadas:** React, MUI, Java/Spring Boot/Spring Data, Maven, MongoDB, Leaflet.
+*   **Colaborador:** [Daniel Henao](https://github.com/VenaoX69)
 *   **Enlaces Relevantes:**
     * Repositorio del Backend: [Backend](https://github.com/uranium092/BackSenaSoft)
     * Repositorio del Frontend: [Frontend](https://github.com/uranium092/frontSenaSoft)
-    *   Detalles del Reto: [Renta de bicicletas](https://drive.google.com/file/d/1f2brAkReuinyZOcCo8WXShZaNO01Ej9R/view?usp=sharing)
-*   **Video Demostrativo:** [Ver solución](https://www.youtube.com/watch?v=Q2U9l3jo0EE) 🎥
+    * Detalles del Reto: [Renta de bicicletas](https://drive.google.com/file/d/1f2brAkReuinyZOcCo8WXShZaNO01Ej9R/view?usp=sharing)
 
 ###   2.  Jardin's Barber 💈
 
