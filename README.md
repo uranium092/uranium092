@@ -26,8 +26,7 @@ Para verificar mi experiencia profesional en MERN, integraciones y automatizacio
 *   **Tecnologías Utilizadas:** React, MUI, Java/Spring Boot/Spring Data, Maven, MongoDB, Leaflet.
 *   **Colaborador:** [Daniel Henao](https://github.com/VenaoX69)
 *   **Enlaces Relevantes:**
-    * Repositorio del Backend: [Backend](https://github.com/uranium092/BackSenaSoft)
-    * Repositorio del Frontend: [Frontend](https://github.com/uranium092/frontSenaSoft)
+    * Repositorio: [Código](https://github.com/uranium092/SenaSoft2024)
     * Detalles del Reto: [Renta de bicicletas](https://drive.google.com/file/d/1f2brAkReuinyZOcCo8WXShZaNO01Ej9R/view?usp=sharing)
 
 ###   2.  Jardin's Barber 💈
