@@ -30,8 +30,8 @@ Para verificar mi experiencia profesional en MERN, integraciones y automatizacio
     * Detalles del Reto: [Renta de bicicletas](https://drive.google.com/file/d/1f2brAkReuinyZOcCo8WXShZaNO01Ej9R/view?usp=sharing)
 
 ###   2.  Jardin's Barber 💈
-
-*   **Descripción:** Plataforma de agendamiento de citas para barberías que facilita la gestión integral del negocio. Los barberos pueden administrar sus perfiles, agendas y personal, incluyendo la creación de otros barberos. Los usuarios pueden registrarse, iniciar sesión y reservar citas en tiempo real, con la disponibilidad reflejada en las agendas de los barberos. El sistema también integra una galería conectada a la cuenta de Instagram del barbero para una mayor personalización.
+*   **Nombre Alternativo**: Faraday-Project
+*   **Descripción:** Plataforma de agendamiento de citas para barberías que facilita la gestión integral del negocio. Los barberos pueden administrar sus perfiles, agendas y personal, incluyendo la creación de otros barberos. Los usuarios pueden registrarse, iniciar sesión y reservar citas en tiempo real, con la disponibilidad reflejada en las agendas de los barberos. El sistema también integra una galería conectada a la cuenta de Instagram del barbero para una mayor personalización. Además, la plataforma notifica por correo electrónico a usuarios y barberos sobre acciones y cambios importantes relacionados con sus citas y cuentas.
 *  **Tecnologías Utilizadas:**
    *  **Backend:** Java, Spring Boot, Hibernate, MySQL
    *  **SSR (Server-Side Rendering):** JavaScript, Node.js, Express.js, EJS
@@ -39,7 +39,6 @@ Para verificar mi experiencia profesional en MERN, integraciones y automatizacio
 *   **Enlaces Relevantes:**
     * Repositorio del Backend: [Backend](https://github.com/uranium092/BackSenaSoft)
     * Repositorio del Frontend: [Frontend](https://github.com/uranium092/frontSenaSoft)
-*   **Video Demostrativo:** [Ver solución](https://www.youtube.com/watch?v=Q2U9l3jo0EE) 🎥
 *   **Estado del Proyecto:**
     *   En proceso de refactorización y migración a MERN Stack (MongoDB, Express, React, Node.js).
     *   Próximo despliegue en AWS para su uso en el municipio de Jardín.
