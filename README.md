@@ -18,11 +18,11 @@ Reconocido con el 3er lugar nacional en SENASOFT 2024. Busco constantemente expa
 
 Para verificar mi experiencia profesional en MERN, integraciones y automatizaciones con Puppeteer, consulta esta [carta de recomendación](https://drive.google.com/file/d/1zEjcfejQdjVwTf5RnPH-KYSA0ygpvxur/view?usp=sharing)
 
-##   Proyectos 📂
+#   Proyectos 📂
 
 ###   1.  SENASOFT 2024 - Edición Cali 🏆
 
-*   **Descripción:** Proyecto desarrollado como solución al reto propuesto y patrocinado por IBM, dentro de la categoría 'Desarrollo Libre'. Obtuvimos el tercer lugar a nivel nacional. Detalles del reto y especificaciones en 'Enlaces Relevantes'.
+*   **Descripción:** Proyecto desarrollado en el evento anual SENASOFT (Edición Cali, 2024), como solución al reto propuesto y patrocinado por IBM, dentro de la categoría 'Desarrollo Libre'. Obtuvimos el tercer lugar a nivel nacional entre 27 regionales. Detalles del reto y especificaciones en 'Enlaces Relevantes'.
 *   **Tecnologías Utilizadas:** React, MUI, Java/Spring Boot/Spring Data, Maven, MongoDB, Leaflet.
 *   **Colaborador:** [Daniel Henao](https://github.com/VenaoX69)
 *   **Enlaces Relevantes:**
