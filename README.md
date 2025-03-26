@@ -33,7 +33,8 @@ Para verificar mi experiencia profesional en MERN, integraciones y automatizacio
 *   **Nombre Alternativo**: Faraday-Project
 *   **Descripción:** Plataforma de agendamiento de citas para barberías que facilita la gestión integral del negocio. Los barberos pueden administrar sus perfiles, agendas y personal, incluyendo la creación de otros barberos. Los usuarios pueden registrarse, iniciar sesión y reservar citas en tiempo real, con la disponibilidad reflejada en las agendas de los barberos. El sistema también integra una galería conectada a la cuenta de Instagram del barbero para una mayor personalización. Además, la plataforma notifica por correo electrónico a usuarios y barberos sobre acciones y cambios importantes relacionados con sus citas y cuentas.
 *  **Tecnologías Utilizadas:**
-   *  **Backend:** Java, Spring Boot, Hibernate, MySQL
+*  **Colaboradores:** [Wainer Loaiza](https://github.com/WainerFSD), [Juan Ruiz](https://github.com/Juanesvc7), [Yeison Perez](https://github.com/Yeison04p)
+   *  **Backend:** Java, Spring Boot, Maven, Spring Data, Hibernate, MySQL.
    *  **SSR (Server-Side Rendering):** JavaScript, Node.js, Express.js, EJS
    *  **Integración:** Meta-Instagram, Gmail-SMTP
 *   **Enlaces Relevantes:**
