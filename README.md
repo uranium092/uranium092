@@ -38,7 +38,7 @@ Para verificar mi experiencia profesional en MERN, integraciones y automatizacio
    *  **SSR (Server-Side Rendering):** JavaScript, Node.js, Express.js, EJS
    *  **Integración:** Meta-Instagram, Gmail-SMTP
 *   **Enlaces Relevantes:**
-    * Repositorio del Backend: [Código](https://github.com/uranium092/JardinsBarber)
+    * Repositorio: [Código](https://github.com/uranium092/JardinsBarber)
 *   **Estado del Proyecto:**
     *   En proceso de refactorización y migración a MERN Stack (MongoDB, Express, React, Node.js).
     *   Próximo despliegue en AWS para su uso en el municipio de Jardín.
