@@ -50,7 +50,6 @@ Para verificar mi experiencia profesional en MERN, integraciones y automatizacio
 *   **Enlaces Relevantes:**
     * Repositorio del Backend: [Backend](https://github.com/uranium092/VideoGame-Back)
     * Repositorio del Frontend: [Frontend](https://github.com/uranium092/VideoGame-Front)
-*   **Video Demostrativo:** [Ver solución](https://www.youtube.com/watch?v=Q2U9l3jo0EE) 🎥
 
 ###   4.  Chat de conversación 💬
 
@@ -58,7 +57,6 @@ Para verificar mi experiencia profesional en MERN, integraciones y automatizacio
 *   **Tecnologías Utilizadas:** Java, Sockets, Threads, Swing.
 *   **Enlaces Relevantes:**
     * Repositorio: [Código](https://github.com/uranium092/Chat)
-*   **Video Demostrativo:** [Ver solución](https://www.youtube.com/watch?v=Q2U9l3jo0EE) 🎥
 
 ###   5.  Gestión de clientes y pedidos - Tienda musical 🎸
 
@@ -66,7 +64,6 @@ Para verificar mi experiencia profesional en MERN, integraciones y automatizacio
 *   **Tecnologías Utilizadas:** JSP, Java, Spring, Hibernate, MySQL
 *   **Enlaces Relevantes:**
     * Repositorio: [Código](https://github.com/uranium092/Client-Order_MusicStore)
-*   **Video Demostrativo:** [Ver solución](https://www.youtube.com/watch?v=Q2U9l3jo0EE) 🎥
 
 ###   6. Gestor de Archivos Integrado 🗃️
 
@@ -74,7 +71,6 @@ Para verificar mi experiencia profesional en MERN, integraciones y automatizacio
 *   **Tecnologías Utilizadas:** Java, Swing.
 *   **Enlaces Relevantes:**
     * Repositorio: [Código](https://github.com/uranium092/FileManager)
-*   **Video Demostrativo:** [Ver solución](https://www.youtube.com/watch?v=Q2U9l3jo0EE) 🎥
 
 ###   7. MySQL Data View: Interfaz Intuitiva 🐬
 
@@ -82,23 +78,7 @@ Para verificar mi experiencia profesional en MERN, integraciones y automatizacio
 *   **Tecnologías Utilizadas:** Java, JDBC, Swing.
 *   **Enlaces Relevantes:**
     * Repositorio: [Código](https://github.com/uranium092/GUI_MySQL)
-*   **Video Demostrativo:** [Ver solución](https://www.youtube.com/watch?v=Q2U9l3jo0EE) 🎥
-
-###   8. Reproductor musical 💽
-
-*   **Descripción:** Reproductor multimedia que permite la gestión de videos enlazados. Funcionalidades: control de avance y retroceso (con visualización de progreso), pausa y reanudación mediante iconos, y ajuste de volumen (con visualización de porcentaje), incluyendo la opción de silenciar y restablecer el volumen anterior.
-*   **Tecnologías Utilizadas:** HTML, CSS, Vanilla JS
-*   **Enlaces Relevantes:**
-    * Repositorio: [Código](https://github.com/uranium092/MediaPlayer)
-*   **Video Demostrativo:** [Ver solución](https://www.youtube.com/watch?v=Q2U9l3jo0EE) 🎥
-
-###   9. Calculadora Web 🧮
-
-*   **Descripción:** Calculadora web que ofrece una interfaz intuitiva para realizar operaciones aritméticas estándar y funciones de acumulación, permitiendo a los usuarios realizar cálculos de forma sencilla y precisa.
-*   **Tecnologías Utilizadas:** HTML, CSS, Vanilla JS, JQuery
-*   **Enlaces Relevantes:**
-    * Repositorio: [Código](https://github.com/uranium092/WebCalculator)
-*   **Video Demostrativo:** [Ver solución](https://www.youtube.com/watch?v=Q2U9l3jo0EE) 🎥
+      
 
 ##   Contacto 📧
 
