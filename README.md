@@ -74,7 +74,7 @@ Para verificar mi experiencia profesional en MERN, integraciones y automatizacio
 
 ###   7. MySQL Data View: Interfaz Intuitiva 🐬
 
-*   **Descripción:** Programa que proporciona una interfaz intuitiva para la gestión de bases de datos MySQL, eliminando la necesidad de utilizar comandos SQL. La aplicación lee los datos de conexión desde un archivo .txt y permite la visualización de datos en tablas, así como operaciones de eliminación (única y múltiple), actualización (directamente en las celdas de la tabla).
+*   **Descripción:** Programa que proporciona una interfaz intuitiva para la gestión de bases de datos MySQL. Lee los datos de conexión desde un archivo .txt y permite la visualización de datos en tablas, así como operaciones de eliminación (única y múltiple), actualización (directamente en las celdas de la tabla).
 *   **Tecnologías Utilizadas:** Java, JDBC, Swing.
 *   **Enlaces Relevantes:**
     * Repositorio: [Código](https://github.com/uranium092/GUI_MySQL)
