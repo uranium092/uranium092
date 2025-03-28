@@ -6,7 +6,7 @@ Desarrollador de software con experiencia en la creación de aplicaciones Full S
 
 Reconocido con el 3er lugar nacional en SENASOFT 2024. Busco constantemente expandir mis conocimientos para desarrollar proyectos que marquen la diferencia.
 
-Actualmente, estoy profundizando mis conocimientos y habilidades en el desarrollo Backend con Java y Spring Boot.
+Actualmente, estoy profundizando mis conocimientos y habilidades en el desarrollo Backend con Java y Spring Boot ♨️.
 
 ##   Habilidades 🛠️
 
