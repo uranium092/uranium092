@@ -67,14 +67,14 @@ Para verificar mi experiencia profesional en MERN, integraciones y automatizacio
 
 ###   6. Gestor de Archivos Integrado 🗃️
 
-*   **Descripción:** Aplicación de gestión de archivos integrada al sistema operativo. Permite la navegación y manipulación de archivos y directorios, incluyendo listado recursivo, reconocimiento de extensiones, operaciones de visualización, eliminación recursiva, y apertura de archivos/directorios filtrados.
+*   **Descripción:** Programa de gestión de archivos integrada al sistema operativo. Permite la navegación y manipulación de archivos y directorios, incluyendo listado recursivo, reconocimiento de extensiones, operaciones de visualización, eliminación recursiva, y apertura de archivos/directorios filtrados.
 *   **Tecnologías Utilizadas:** Java, Swing.
 *   **Enlaces Relevantes:**
     * Repositorio: [Código](https://github.com/uranium092/FileManager)
 
 ###   7. MySQL Data View: Interfaz Intuitiva 🐬
 
-*   **Descripción:** Aplicación que proporciona una interfaz intuitiva para la gestión de bases de datos MySQL, eliminando la necesidad de utilizar comandos SQL. La aplicación lee los datos de conexión desde un archivo .txt y permite la visualización de datos en tablas, así como operaciones de eliminación (única y múltiple), actualización (directamente en las celdas de la tabla) e inserción de registros.
+*   **Descripción:** Programa que proporciona una interfaz intuitiva para la gestión de bases de datos MySQL, eliminando la necesidad de utilizar comandos SQL. La aplicación lee los datos de conexión desde un archivo .txt y permite la visualización de datos en tablas, así como operaciones de eliminación (única y múltiple), actualización (directamente en las celdas de la tabla).
 *   **Tecnologías Utilizadas:** Java, JDBC, Swing.
 *   **Enlaces Relevantes:**
     * Repositorio: [Código](https://github.com/uranium092/GUI_MySQL)
