@@ -20,6 +20,8 @@ Para verificar mi experiencia profesional en MERN, integraciones y automatizacio
 
 #   Proyectos 📂
 
+Proyectos que documentan mi evolución como desarrollador, desde aplicaciones individuales hasta plataformas complejas que integran múltiples tecnologías y stacks.
+
 ###   1.  SENASOFT 2024 - Edición Cali 🏆
 
 *   **Descripción:** Proyecto desarrollado en el evento anual SENASOFT (Edición Cali, 2024), como solución al reto propuesto y patrocinado por IBM, dentro de la categoría 'Desarrollo Libre'. Obtuvimos el tercer lugar a nivel nacional entre 27 regionales. Detalles del reto y especificaciones en 'Enlaces Relevantes'.
