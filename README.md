@@ -43,7 +43,7 @@ Proyectos que documentan mi evolución como desarrollador, desde aplicaciones in
    *  **Integración:** Meta-Instagram, Gmail-SMTP
 *   **Enlaces Relevantes:**
     * Repositorio: [Código](https://github.com/uranium092/JardinsBarber)
-*   **Estado del Proyecto:**
+*   **Estado:**
     *   En proceso de refactorización y migración a MERN Stack (MongoDB, Express, React, Node.js).
     *   Próximo despliegue en AWS para su uso en el municipio de Jardín.
 
@@ -51,9 +51,8 @@ Proyectos que documentan mi evolución como desarrollador, desde aplicaciones in
 
 *   **Descripción:** Juego de cartas multijugador en tiempo real donde los jugadores compiten en rondas adivinando la fecha de lanzamiento más antigua de videojuegos. Los jugadores se unen a partidas a través de códigos de sala creados por un anfitrión. En cada ronda, el sistema presenta a todos los jugadores videojuegos seleccionados al azar. El jugador que elija la carta (videojuego) con la fecha de lanzamiento más antigua gana la ronda. Los videojuegos mostrados varían de ronda a ronda, manteniendo el juego dinámico y desafiante.
 *   **Tecnologías Utilizadas:** React, MUI, Java/Spring Boot, MongoDB, Sockets (Websockets)
-*   **Enlaces Relevantes:**
-    * Repositorio del Backend: [Backend](https://github.com/uranium092/VideoGame-Back)
-    * Repositorio del Frontend: [Frontend](https://github.com/uranium092/VideoGame-Front)
+*   **Estado:**
+    * En proceso
 
 ###   4.  Chat de conversación 💬
 
