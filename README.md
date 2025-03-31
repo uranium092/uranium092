@@ -84,4 +84,4 @@ Proyectos que documentan mi evolución como desarrollador, desde aplicaciones y 
 
 ##   Más ➕
 
-*   [Curriculum Vitae](URL_de_tu_CV_en_PDF) 📄
+*   [Curriculum Vitae](https://drive.google.com/file/d/1iJnqO35u33Zw8K3FplAQlC3y3S2usL4u/view?usp=sharing) 📄
