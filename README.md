@@ -20,9 +20,9 @@ Actualmente, estoy profundizando mis conocimientos y habilidades en el desarroll
 
 Para verificar mi experiencia profesional en MERN, integraciones y automatizaciones con Puppeteer, consulta esta [carta de recomendación](https://drive.google.com/file/d/1zEjcfejQdjVwTf5RnPH-KYSA0ygpvxur/view?usp=sharing)
 
-#   Proyectos 📂
+#   Proyectos y desafíos 📂🧠
 
-Proyectos que documentan mi evolución como desarrollador, desde aplicaciones individuales hasta plataformas complejas que integran múltiples tecnologías y stacks.
+Proyectos que documentan mi evolución como desarrollador, desde aplicaciones y programas individuales hasta plataformas complejas que integran múltiples tecnologías y stacks.
 
 ###   1.  SENASOFT 2024 - Edición Cali 🏆
 
@@ -36,8 +36,8 @@ Proyectos que documentan mi evolución como desarrollador, desde aplicaciones in
 ###   2.  Jardin's Barber 💈
 *   **Nombre Alternativo**: Faraday-Project
 *   **Descripción:** Plataforma de agendamiento de citas para barberías que facilita la gestión integral del negocio. Los barberos pueden administrar sus perfiles, agendas y personal, incluyendo la creación de otros barberos. Los usuarios pueden registrarse, iniciar sesión y reservar citas en tiempo real, con la disponibilidad reflejada en las agendas de los barberos. El sistema también integra una galería conectada a la cuenta de Instagram del barbero para una mayor personalización. Además, la plataforma notifica por correo electrónico a usuarios y barberos sobre acciones y cambios importantes relacionados con sus citas y cuentas.
-*  **Tecnologías Utilizadas:**
 *  **Colaboradores:** [Wainer Loaiza](https://github.com/WainerFSD), [Juan Ruiz](https://github.com/Juanesvc7), [Yeison Perez](https://github.com/Yeison04p)
+*  **Tecnologías Utilizadas:**
    *  **Backend:** Java, Spring Boot, Maven, Spring Data, Hibernate, MySQL.
    *  **SSR (Server-Side Rendering):** JavaScript, Node.js, Express.js, EJS
    *  **Integración:** Meta-Instagram, Gmail-SMTP
