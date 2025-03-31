@@ -78,7 +78,7 @@ Proyectos que documentan mi evolución como desarrollador, desde aplicaciones y 
 
 ##   Contacto 📧
 
-*   [Linkedin](www.linkedin.com/in/jhon-esneider-castañeda-garcia-29615b270) 💼
+*   [Linkedin](https://www.linkedin.com/in/jhon-esneider-castañeda-garcia-29615b270) 💼
 *   Correo electrónico📬: jhonesneidercastanedagarcia@gmail.com
 *   Teléfono📞: 324 582 3089 
 
