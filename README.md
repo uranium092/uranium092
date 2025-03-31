@@ -44,22 +44,22 @@ Proyectos que documentan mi evolución como desarrollador, desde aplicaciones y 
 *   **Enlaces Relevantes:**
     * Repositorio: [Código](https://github.com/uranium092/JardinsBarber)
 *   **Estado:**
-    *   En proceso de refactorización y migración a MERN Stack (MongoDB, Express, React, Node.js).
+    *   Próxima refactorización y migración a MERN Stack.
     *   Próximo despliegue en AWS para su uso en el municipio de Jardín.
 
-###   3.  Juego de cartas multijugador ♠♦️
-
-*   **Descripción:** Juego de cartas multijugador en tiempo real donde los jugadores compiten en rondas adivinando la fecha de lanzamiento más antigua de videojuegos. Los jugadores se unen a partidas a través de códigos de sala creados por un anfitrión. En cada ronda, el sistema presenta a todos los jugadores videojuegos seleccionados al azar. El jugador que elija la carta (videojuego) con la fecha de lanzamiento más antigua gana la ronda. Los videojuegos mostrados varían de ronda a ronda, manteniendo el juego dinámico y desafiante.
-*   **Tecnologías Utilizadas:** React, MUI, Java/Spring Boot, MongoDB, Sockets (Websockets)
-*   **Estado:**
-    * En proceso
-
-###   4.  Chat de conversación 💬
+###   3.  Chat de conversación 💬
 
 *   **Descripción:** Chat que ofrece mensajería individual en tiempo real. Los usuarios crean nombres de usuario personalizados al iniciar sesión y pueden explorar una lista de usuarios en línea para iniciar conversaciones privadas y directas.
 *   **Tecnologías Utilizadas:** Java, Sockets, Threads, Swing.
 *   **Enlaces Relevantes:**
     * Repositorio: [Código](https://github.com/uranium092/Chat)
+
+###   4. Gestor de Archivos Integrado 🗃️
+
+*   **Descripción:** Programa de gestión de archivos integrada al sistema operativo. Permite la navegación y manipulación de archivos y directorios, incluyendo listado recursivo, reconocimiento de extensiones, operaciones de visualización, eliminación recursiva, y apertura de archivos/directorios filtrados.
+*   **Tecnologías Utilizadas:** Java, Swing.
+*   **Enlaces Relevantes:**
+    * Repositorio: [Código](https://github.com/uranium092/FileManager)
 
 ###   5.  Gestión de clientes y pedidos - Tienda musical 🎸
 
@@ -68,14 +68,7 @@ Proyectos que documentan mi evolución como desarrollador, desde aplicaciones y 
 *   **Enlaces Relevantes:**
     * Repositorio: [Código](https://github.com/uranium092/Client-Order_MusicStore)
 
-###   6. Gestor de Archivos Integrado 🗃️
-
-*   **Descripción:** Programa de gestión de archivos integrada al sistema operativo. Permite la navegación y manipulación de archivos y directorios, incluyendo listado recursivo, reconocimiento de extensiones, operaciones de visualización, eliminación recursiva, y apertura de archivos/directorios filtrados.
-*   **Tecnologías Utilizadas:** Java, Swing.
-*   **Enlaces Relevantes:**
-    * Repositorio: [Código](https://github.com/uranium092/FileManager)
-
-###   7. MySQL Data View: Interfaz Intuitiva 🐬
+###   6. MySQL Data View: Interfaz Intuitiva 🐬
 
 *   **Descripción:** Programa que proporciona una interfaz intuitiva para la gestión de bases de datos MySQL. Lee los datos de conexión desde un archivo .txt y permite la visualización de datos en tablas, así como operaciones de eliminación (única y múltiple), actualización (directamente en las celdas de la tabla).
 *   **Tecnologías Utilizadas:** Java, JDBC, Swing.
