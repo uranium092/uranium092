@@ -22,7 +22,7 @@ Para verificar mi experiencia profesional en MERN, integraciones y automatizacio
 
 #   Proyectos y desafíos 📂🧠
 
-Proyectos que documentan mi evolución como desarrollador, desde aplicaciones y programas individuales hasta plataformas complejas que integran múltiples tecnologías y stacks. Puedes revisar mis demás aportaciones en mi [perfil de GitHub](https://github.com/esneider-77) laboral anterior, encontrarás ejemplos adicionales de mi trabajo.
+Proyectos que documentan mi evolución como desarrollador, desde aplicaciones y programas individuales hasta plataformas complejas que integran múltiples tecnologías y stacks. Puedes revisar mis demás aportaciones en mi [perfil de GitHub](https://github.com/esneider-77) laboral anterior, encontrarás estadísticas adicionales de mi trabajo.
 
 ###   1.  SENASOFT 2024 - Edición Cali 🏆
 
