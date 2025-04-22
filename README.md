@@ -79,10 +79,6 @@ Proyectos que documentan mi evolución como desarrollador, desde aplicaciones y 
 
 ##   Contacto 📧
 
-*   [Linkedin]() 💼
+*   [Linkedin](https://www.linkedin.com/in/jhonesn) 💼
 *   Correo electrónico📬: jhonesneidercastanedagarcia@gmail.com
 *   Teléfono📞: 324 582 3089 
-
-##   Más ➕
-
-*   [Curriculum Vitae]() 📄
