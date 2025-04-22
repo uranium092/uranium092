@@ -14,8 +14,8 @@ Actualmente, estoy profundizando mis conocimientos y habilidades en el desarroll
 *   **🧱 Frameworks/Librerías:** Spring Boot, Spring Data, Node.js, Express.js, React.js, EJS
 *   **🗄️ Bases de Datos:** MySQL, MongoDB
 *   **☁️ Cloud:** AWS (S3, EC2, Elastic Beanstalk) 
-*   **🛠️ Herramientas/Tecnologías** Git | GitHub | Postman | AWS | JWT | Stripe | Sockets | Vonage | Meta | Puppeteer
-*   **📝 Metodologías:** SCRUM | Jira
+*   **🛠️ Herramientas/Tecnologías** Git, GitHub, Postman, AWS, JWT, Stripe, Sockets, Vonage, Meta, Puppeteer
+*   **📝 Metodologías:** SCRUM, Jira
 
 ##   Nota 📝
 
