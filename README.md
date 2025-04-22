@@ -10,11 +10,12 @@ Actualmente, estoy profundizando mis conocimientos y habilidades en el desarroll
 
 ##   Habilidades 🛠️
 
-*   **🎨 Frontend:** React, HTML/CSS/Javascript
-*   **⚙️ Backend:** Java/Spring Boot, Javascript/NodeJs/Express, Sockets
+*   **⚙️ Lenguajes Programación:** Java, JavaScript, SQL
+*   **🧱 Frameworks/Librerías:** Spring Boot, Spring Data, Node.js, Express.js, React.js, EJS
 *   **🗄️ Bases de Datos:** MySQL, MongoDB
 *   **☁️ Cloud:** AWS (S3, EC2, Elastic Beanstalk) 
-*   **📈 Herramientas:** Git/GitHub, Web scraping (Puppeteer), SCRUM, Jira, LucidChart
+*   **🛠️ Herramientas/Tecnologías** Git | GitHub | Postman | AWS | JWT | Stripe | Sockets | Vonage | Meta | Puppeteer
+*   **📝 Metodologías:** SCRUM | Jira
 
 ##   Nota 📝
 
