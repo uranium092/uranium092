@@ -8,7 +8,7 @@ Reconocido con el 3er lugar nacional en SENASOFT 2024. Busco constantemente expa
 
 Actualmente, estoy profundizando mis conocimientos y habilidades en el desarrollo Backend con Java y Spring Boot ♨️.
 
-##   Habilidades 🛠️
+##   Habilidades 🧠
 
 *   **⚙️ Lenguajes Programación:** Java, JavaScript, SQL
 *   **🧱 Frameworks/Librerías:** Spring Boot, Spring Data, Node.js, Express.js, React.js, EJS
