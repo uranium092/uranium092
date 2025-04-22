@@ -4,6 +4,8 @@
 
 Desarrollador de software con experiencia en la creación de aplicaciones Full Stack utilizando MERN y desarrollo backend Java/Spring Boot, así como la integración de sistemas de terceros (Stripe, Meta-Whatsapp, Vonage-SMS) y el manejo de bases de datos SQL (MySQL) y NoSQL (MongoDB). Además, cuento con conocimientos en AWS (S3, EC2, Elastic Beanstalk) y Web Scraping (Puppeteer).
 
+Aunque he desempeñado roles Full Stack, mi enfoque y fortaleza principal se encuentran en el desarrollo backend, donde disfruto resolver problemas complejos y diseñar arquitecturas robustas y escalables.
+
 Reconocido con el 3er lugar nacional en SENASOFT 2024. Busco constantemente expandir mis conocimientos para desarrollar proyectos que marquen la diferencia.
 
 Actualmente, estoy profundizando mis conocimientos y habilidades en el desarrollo Backend con Java y Spring Boot ♨️.
