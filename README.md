@@ -12,11 +12,11 @@ Actualmente, estoy profundizando mis conocimientos y habilidades en el desarroll
 
 ##   Habilidades 🧠
 
-*   **⚙️ Lenguajes Programación:** Java, JavaScript, SQL
-*   **🧱 Frameworks/Librerías:** Spring Boot, Spring Data, Node.js, Express.js, React.js, EJS
+*   **⚙️ Lenguajes Programación:** Java, JavaScript, Go, SQL
+*   **🧱 Frameworks/Librerías:** Spring Boot, Spring Data, Node.js, Express.js, Gin, React.js, Vue, EJS
 *   **🗄️ Bases de Datos:** MySQL, MongoDB
 *   **☁️ Cloud:** AWS (S3, EC2, Elastic Beanstalk) 
-*   **🛠️ Herramientas/Tecnologías** Git, GitHub, Postman, AWS, JWT, Stripe, Sockets, Vonage, Meta, Puppeteer
+*   **🛠️ Herramientas/Tecnologías** Git, GitHub, Postman, AWS, Terraform, JWT, Stripe, Sockets, Vonage, Meta, Puppeteer
 *   **📝 Metodologías:** SCRUM, Jira
 
 ##   Nota 📝
@@ -49,29 +49,36 @@ Proyectos que documentan mi evolución como desarrollador, desde aplicaciones y 
 *   **Estado:**
     *   Próxima refactorización y migración a MERN Stack.
     *   Próximo despliegue en AWS para su uso en el municipio de Jardín.
+ 
+###   3.  Inversión de acciones 💬
 
-###   3.  Chat de conversación 💬
+*   **Descripción:** Sistema que permite navegar entre acciones a invertir, buscando y filtrando, ademas, con un algoritmo sólido para recomendar en qué invertir.
+*   **Tecnologías Utilizadas:** Go, Gin, Vue, TypeScript, CockroachDB, Terraform(AWS).
+*   **Enlaces Relevantes:**
+    * Repositorio: [Código](https://github.com/uranium092/Stradivarius)
+
+###   4.  Chat de conversación 💬
 
 *   **Descripción:** Chat que ofrece mensajería individual en tiempo real. Los usuarios crean nombres de usuario personalizados al iniciar sesión y pueden explorar una lista de usuarios en línea para iniciar conversaciones privadas y directas.
 *   **Tecnologías Utilizadas:** Java, Sockets, Threads, Swing.
 *   **Enlaces Relevantes:**
     * Repositorio: [Código](https://github.com/uranium092/Chat)
 
-###   4. Gestor de Archivos Integrado 🗃️
+###   5. Gestor de Archivos Integrado 🗃️
 
 *   **Descripción:** Programa de gestión de archivos integrada al sistema operativo. Permite la navegación y manipulación de archivos y directorios, incluyendo listado recursivo, reconocimiento de extensiones, operaciones de visualización, eliminación recursiva, y apertura de archivos/directorios filtrados.
 *   **Tecnologías Utilizadas:** Java, Swing.
 *   **Enlaces Relevantes:**
     * Repositorio: [Código](https://github.com/uranium092/FileManager)
 
-###   5.  Gestión de clientes y pedidos - Tienda musical 🎸
+###   6.  Gestión de clientes y pedidos - Tienda musical 🎸
 
 *   **Descripción:** Aplicación para la gestión de clientes y pedidos en una tienda de música. Los clientes, que son integrantes de bandas, pueden ser registrados en el sistema. El sistema permite gestionar los pedidos de cada cliente, incluyendo la adición, modificación y eliminación de artículos/instrumentos y sus precios. Los artículos de los pedidos se gestionan a nivel de cliente.
 *   **Tecnologías Utilizadas:** JSP, Java, Spring, Hibernate, MySQL
 *   **Enlaces Relevantes:**
     * Repositorio: [Código](https://github.com/uranium092/Client-Order_MusicStore)
 
-###   6. MySQL Data View: Interfaz Intuitiva 🐬
+###   7. MySQL Data View: Interfaz Intuitiva 🐬
 
 *   **Descripción:** Programa que proporciona una interfaz intuitiva para la gestión de bases de datos MySQL. Lee los datos de conexión desde un archivo .txt y permite la visualización de datos en tablas, así como operaciones de eliminación (única y múltiple), actualización (directamente en las celdas de la tabla).
 *   **Tecnologías Utilizadas:** Java, JDBC, Swing.
