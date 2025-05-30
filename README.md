@@ -2,7 +2,7 @@
 
 ## Sobre mí ‍🙋‍♂️
 
-Desarrollador de software con experiencia en la creación de aplicaciones Full Stack utilizando MERN y desarrollo backend Java/Spring Boot, así como la integración de sistemas de terceros (Stripe, Meta-Whatsapp, Vonage-SMS) y el manejo de bases de datos SQL (MySQL) y NoSQL (MongoDB). Además, cuento con conocimientos en AWS (S3, EC2, Elastic Beanstalk) y Web Scraping (Puppeteer).
+Desarrollador de software con experiencia en la creación de aplicaciones Full Stack utilizando MERN y desarrollo backend Java/Spring Boot, y Go/Gin, así como la integración de sistemas de terceros (Stripe, Meta-Whatsapp, Vonage-SMS) y el manejo de bases de datos SQL y NoSQL. Además, cuento con conocimientos en AWS (S3, EC2, Elastic Beanstalk) y Web Scraping (Puppeteer).
 
 Aunque he desempeñado roles Full Stack, mi enfoque y fortaleza principal se encuentran en el desarrollo backend, donde disfruto resolver problemas complejos y diseñar arquitecturas robustas y escalables.
 
@@ -14,7 +14,7 @@ Actualmente, estoy profundizando mis conocimientos y habilidades en el desarroll
 
 *   **⚙️ Lenguajes Programación:** Java, JavaScript, Go, SQL
 *   **🧱 Frameworks/Librerías:** Spring Boot, Spring Data, Node.js, Express.js, Gin, React.js, Vue, EJS
-*   **🗄️ Bases de Datos:** MySQL, MongoDB
+*   **🗄️ Bases de Datos:** MySQL, CockroachDB, MongoDB
 *   **☁️ Cloud:** AWS (S3, EC2, Elastic Beanstalk) 
 *   **🛠️ Herramientas/Tecnologías** Git, GitHub, Postman, AWS, Terraform, JWT, Stripe, Sockets, Vonage, Meta, Puppeteer
 *   **📝 Metodologías:** SCRUM, Jira
