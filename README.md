@@ -50,7 +50,7 @@ Proyectos que documentan mi evolución como desarrollador, desde aplicaciones y 
     *   Próxima refactorización y migración a MERN Stack.
     *   Próximo despliegue en AWS para su uso en el municipio de Jardín.
  
-###   3.  Inversión de acciones 💬
+###   3.  Inversión de acciones 📈
 
 *   **Descripción:** Sistema que permite navegar entre acciones a invertir, buscando y filtrando, ademas, con un algoritmo sólido para recomendar en qué invertir.
 *   **Tecnologías Utilizadas:** Go, Gin, Vue, TypeScript, CockroachDB, Terraform(AWS).
